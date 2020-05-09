@@ -38,7 +38,7 @@ You may use one of the following three to login:
 After 3 consecutive unsuccessful logins, the account will be locked, even with
 correct password, login will be denied.
 
-*This programmw is only for demonstration, after the Main Server is re-started, 
+*This programme is only for demonstration, after the Main Server is re-started, 
 all the locked accounts will be unlocked, and the counting will reset to 0
 *If you want to speed up the login process, you may go to ImagePeer.java line 330
 and modify the two input dialogs in the login() method
